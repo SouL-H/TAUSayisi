@@ -1,0 +1,14 @@
+C:\Users\mehmetaydin\source\repos\TAUSayısı\TAUSayısı\bin\Debug\TAUSayısı.exe.config
+C:\Users\mehmetaydin\source\repos\TAUSayısı\TAUSayısı\bin\Debug\TAUSayısı.exe
+C:\Users\mehmetaydin\source\repos\TAUSayısı\TAUSayısı\bin\Debug\TAUSayısı.pdb
+C:\Users\mehmetaydin\source\repos\TAUSayısı\TAUSayısı\obj\Debug\TAUSayısı.csprojAssemblyReference.cache
+C:\Users\mehmetaydin\source\repos\TAUSayısı\TAUSayısı\obj\Debug\TAUSayısı.csproj.CoreCompileInputs.cache
+C:\Users\mehmetaydin\source\repos\TAUSayısı\TAUSayısı\obj\Debug\TAUSayısı.exe
+C:\Users\mehmetaydin\source\repos\TAUSayısı\TAUSayısı\obj\Debug\TAUSayısı.pdb
+C:\Users\mehmetaydin\Documents\GitHub\TAUSayisi\TAUSayısı\TAUSayısı\bin\Debug\TAUSayısı.exe.config
+C:\Users\mehmetaydin\Documents\GitHub\TAUSayisi\TAUSayısı\TAUSayısı\bin\Debug\TAUSayısı.exe
+C:\Users\mehmetaydin\Documents\GitHub\TAUSayisi\TAUSayısı\TAUSayısı\bin\Debug\TAUSayısı.pdb
+C:\Users\mehmetaydin\Documents\GitHub\TAUSayisi\TAUSayısı\TAUSayısı\obj\Debug\TAUSayısı.csprojAssemblyReference.cache
+C:\Users\mehmetaydin\Documents\GitHub\TAUSayisi\TAUSayısı\TAUSayısı\obj\Debug\TAUSayısı.csproj.CoreCompileInputs.cache
+C:\Users\mehmetaydin\Documents\GitHub\TAUSayisi\TAUSayısı\TAUSayısı\obj\Debug\TAUSayısı.exe
+C:\Users\mehmetaydin\Documents\GitHub\TAUSayisi\TAUSayısı\TAUSayısı\obj\Debug\TAUSayısı.pdb
